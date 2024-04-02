@@ -20,6 +20,7 @@ Plus, as a seasoned tech enthusiast who knows exactly what I want (spoiler alert
 ## Sneak Peek
 
 ![Norwegian Job Market](Illustrativt.png)
+I am slightly ashamed that github marked this app as something with css. This is a no-effort css project, really, probably doesnt need convincing.
 
 ## How it Works
 
