@@ -13,7 +13,7 @@ This app lets you explore the current job market in Norway based on different se
 ## Purpose
 
 Sure, it might seem like I'm procrastinating, but hear me out! This app is all about simplifying things for folks who are looking to enter the job market. Instead of spending hours analyzing data, they can quickly see which sectors are thriving and which ones are on the decline. It's like a cheat code for job seekers! 😉
-I was looking for any open api to tinker with, this just happened to cross into my search gaze. Useful? Could be, you tell me. A VGS student whose only study-requirement being quick and guaranteed employment might, but i don't think they are a github demographic.
+I was looking for any open api to tinker with, this just happened to cross into my search gaze. Useful? Could be, you tell me. A vgs student that has guaranteed employment as their only requirement for choice of study might. If they used github.
 
 Plus, as a seasoned tech enthusiast who knows exactly what I want (spoiler alert: it's anything related to tech, IT, etc.), I created this app with others in mind. So, whether you're a fellow tech enthusiast or someone exploring different career options, this app is for you!
 
