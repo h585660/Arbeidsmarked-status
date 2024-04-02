@@ -28,4 +28,9 @@ The app is built using React and fetches data from the SSB API. It uses Papapars
 
 To get started, clone this repository and run `npm install` to install dependencies. Then, run `npm start` to launch the app.
 
+## Contemplations and complaints
+
+I was a bit surprised that the SSB-data was called an API. They were really just very large datasets in CSV/JSON format, no endpoints and no endpoints whatsoever.
+I am slightly confused as to their definition of an API, but their data was astoundingly easy to work with.
+
 
