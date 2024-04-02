@@ -4,7 +4,7 @@ Welcome to my React app that displays the status of available jobs in Norway by 
 
 ## Motivation
 
-So, here's the deal: I should be job hunting, but instead, I ended up creating this React app. Classic case of a programmer avoiding writing a CV, am I right? 😅 But hey, what can I say? Coding is my passion! 💻
+So, here's the deal: I should be working on one of my 10 different studying obligations, so this is as much a stress relief as it is meant to be useful😅 But hey, what can I say? Coding is my passion! 💻
 
 ## What it Does
 
