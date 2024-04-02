@@ -1,6 +1,7 @@
 # 🇳🇴 Norwegian Job Market Status 📊
 
 Welcome to my React app that displays the status of available jobs in Norway by sector! 🚀
+It can be quite stressful choosing which field to study or work towards when reaching adulthood, some have their passion set early, some just want to work. With the market fluctuating constantly back and forth, data being hard to read, and every sector promising green pastures, anyone can become anxious. But with a graph that shows progression of available jobs through the past years we can get a rough indication whether or not your career choice is a sound one. So this is a graph, its really just a graph creator. Useful for people without IT experience, hosted on a programmer webpage.
 
 ## Motivation
 
