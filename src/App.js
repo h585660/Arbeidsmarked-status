@@ -18,9 +18,9 @@ const App = () => {
       download: true,
       complete: (csvData) => {
         const filteredData = csvData.data
-          .map(line => line[0].split(';')) // Split each line into an array of values
-          .map(values => values.map(value => value.replace(/"/g, ''))) // Remove extra quotation marks
-          .filter(values => values[0].startsWith(inputValue)) // Filter based on the input value
+          .map(line => line[0].split(';'))
+          .map(values => values.map(value => value.replace(/"/g, '')))
+          .filter(values => values[0].startsWith(inputValue))
           .reduce((accumulator, current) => {
             const quarter = current[1];
             if (!accumulator[quarter]) {
