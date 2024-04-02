@@ -5,7 +5,7 @@ It can be quite stressful choosing which field to study or work towards when rea
 
 ## Motivation
 
-So, here's the deal: I should be working on one of my 10 different studying obligations, so this is as much a stress relief as it is meant to be useful😅 But hey, what can I say? Coding is my passion! 💻
+So, here's the deal: I should be working on one of my 10 different studying obligations, so this is as much a stress reliever as it is meant to be useful😅 But hey, what can I say? Coding is my passion! 💻
 
 ## What it Does
 
