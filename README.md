@@ -1,6 +1,6 @@
 # 🇳🇴 Norwegian Job Market Status 📊
 
-Welcome to my React app that tracks the status of available jobs in Norway by sector! 🚀
+Welcome to my React app that displays the status of available jobs in Norway by sector! 🚀
 
 ## Motivation
 
@@ -14,10 +14,18 @@ This app lets you explore the current job market in Norway based on different se
 
 Sure, it might seem like I'm procrastinating, but hear me out! This app is all about simplifying things for folks who are looking to enter the job market. Instead of spending hours analyzing data, they can quickly see which sectors are thriving and which ones are on the decline. It's like a cheat code for job seekers! 😉
 
+Plus, as a seasoned tech enthusiast who knows exactly what I want (spoiler alert: it's anything related to tech, IT, etc.), I created this app with others in mind. So, whether you're a fellow tech enthusiast or someone exploring different career options, this app is for you!
+
 ## Sneak Peek
 
 ![Norwegian Job Market](Illustrativt.png)
 
-## Future Plans
+## How it Works
 
-This is just the beginning! In the future, I plan to make this app even more detailed and informative. Stay tuned for updates! 🛠️
+The app is built using React and fetches data from the SSB API. It uses Papaparse for CSV parsing and Recharts for data visualization.
+
+## Usage
+
+To get started, clone this repository and run `npm install` to install dependencies. Then, run `npm start` to launch the app.
+
+
